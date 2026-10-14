@@ -3,6 +3,7 @@ Did you like the working alongside a video or do you prefer written instructions
 I did like working along side the video.It was difficult to get used to in the begining but eventually it turned out to be very helpful For me personally it was helpful to see it being done and being explained and also do it along side. It helped me retain more information and it was also helpful because when I ran into issues or made a mistake I was able to look back at the video and pin point my mistakes.
 
 What about the video was helpful?
+
 The video was very informative and explained vue very clearly. The constant explanations of what was going on and why we were doing it was helpful because I didnt feel like I was just following a tutorial to get it done, I felt like I was able to learn along side the video. In multiple points of this project I made mistakes on small things like for instance I got the wrong font from google fonts. With the video and being able to see the code I was able to see the error before I finished the project and resolve it. I had a similar issue around section 6 where somewhere along the line I lost my create todo box and could not figure out why. With the video I was able to back track and trace my steps to fix that. I was also very unsure of the DOM and what it involves and the video did a great job explaining the DOM and how it works with Vue.
 
 
